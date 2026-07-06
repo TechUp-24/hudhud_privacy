@@ -2,7 +2,7 @@
 
 **Last updated:** [Insert Date]
 
-This Privacy Policy explains how **[App Name]** ("we", "our", or "us") collects, uses, stores, and protects information when you use our mobile application and related services.
+This Privacy Policy explains how **Hudhud Edu** ("we", "our", or "us") collects, uses, stores, and protects information when you use our mobile application and related services.
 
 ## 1. Information We Collect
 
