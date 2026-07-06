@@ -13,7 +13,6 @@ When you create an account, we may collect:
 - Name
 - Username
 - Phone number
-- Email address, if provided
 - Profile image, if uploaded
 
 ### Learning and App Activity
